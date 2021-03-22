@@ -2,3 +2,5 @@
 
 
 - 🌱 I’m currently learning new technologies of Frontend 
+
+CSS   HTML    JAVASCRIPT
