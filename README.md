@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickcapilla/)](https://www.linkedin.com/in/erickcapilla/)
 [![X Badge](https://img.shields.io/twitter/follow/erickcapilla_)](https://twitter.com/erickcapilla_)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@erickpoblano25@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@erickpoblano25@gmail.com)](mailto:mail@erickpoblano25@gmail.com)
 
 ## About me
 I'm frontend developer with a strong foundation in computer engineering and extensive experience in graphic design. Skilled in creating intuitive, responsive, and visually appealing web applications using modern frontend technologies. Adept at working in collaborative environments, continuously learning new tools and techniques, and adapting quickly to project changes.
