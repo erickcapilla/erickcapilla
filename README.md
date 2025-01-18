@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/erickcapilla/">Erick Capilla</a> 👋</h1>
 </div>
-<img src="https://imgur.com/3j25a83.png">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickcapilla/)](https://www.linkedin.com/in/erickcapilla/)
 [![X Badge](https://img.shields.io/twitter/follow/erickcapilla_)](https://twitter.com/erickcapilla_)
@@ -12,6 +11,6 @@ I'm frontend developer with a strong foundation in computer engineering and exte
 
 ## Skills
 - Web Development: Proficient in HTML, CSS, JavaScript, TypeScript, and ReactJs for building dynamic and user-friendly interfaces. 💻
-- Programming Languages: Knowledgeable in JavaScript, TypeScript, Java, C, and Rust, with a strong emphasis on frontend development. 📄
+- Programming Languages: Knowledgeable in JavaScript, TypeScript, with a strong emphasis on frontend development. 📄
 - Problem Solving: Strong analytical skills with the ability to troubleshoot and resolve issues efficiently.
 - Team Collaboration: Effective team player with excellent communication skills, capable of proposing and integrating ideas within a team.
